@@ -1,0 +1,9 @@
+basePath: /
+host: localhost:8080
+info:
+  contact: {}
+  description: WebSocket чат и REST API на Gin
+  title: Go Chat API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
